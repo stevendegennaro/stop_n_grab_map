@@ -6,11 +6,11 @@ This code was used to create an interactive map using the Google API.
 
 ### get_stop_n_grab.py
 
-Uses the Maps API to search for a list of stores on Google Maps. 
+Uses the Maps API to search for a list of stores. 
 For privacy reasons, the API key and the names of the stores used have been redacted.
 
 GPS_coords were found manually to define the search area that I was interested in. The Maps
-API uses those as center points for a search within a certain radius.
+API uses those as center points for a search within a certain radius (also user defined).
 
 Since I was primaily interested in a fictional visualization, there are no checks
 for whether the results returned are accurate or complete, so be cautioned if
