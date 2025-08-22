@@ -26,7 +26,7 @@ python3 -m http.server 3000
 
 and then navigate to
 
-http://localhost:3000/[your_file_location]
+`http://localhost:3000/[your_file_location]`
 
 ### load_map.js
 
