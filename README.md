@@ -2,7 +2,8 @@
 
 ## Used in the motion picture Remote
 
-This code was used to create an interactive map using the Google API.
+This code was used to create an interactive map using the Google API. A blog post about it
+can be found [here](https://medium.com/@datasciencefilmmaker/where-in-the-world-is-murder-san-diego-6e38ef979390).
 
 ### get_stop_n_grab.py
 
