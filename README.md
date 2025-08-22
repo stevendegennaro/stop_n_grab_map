@@ -37,3 +37,10 @@ with get_stop_n_grab.py and stored in stop_n_grab_list.json.
 For reasons having to do with the plot of the film, when you click once on the map, 
 all stores that are not in Pennsylvania disappear. A second click removes most of the
 Pennsylvania stores, and a third click resets the markes to their original state.
+
+### scroll.py
+
+The folder "scrolling map locations" contains an additional two files that were used on screen
+in the film. When I was testing the maps code, I thought it looked cool as the different locations
+were printed to screen in a terminal. So the file scroll.py will read in the list of locations 
+in scroll.txt and print the contents on screen. 
